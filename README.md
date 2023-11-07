@@ -4,6 +4,5 @@
 My first game in Python inspired of the Call Of Duty Dead Ops Arcade Gamemode (2D Game, View from above).
 
 ## Built With pygame
-
-*[Pygame]([http://www.dropwizard.io/1.0.2/docs/](https://www.pygame.org/) - The graphical framework used
+* [Pygame](https://www.pygame.org/) - The graphical framework used
 
